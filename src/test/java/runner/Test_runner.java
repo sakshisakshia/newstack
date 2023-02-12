@@ -7,11 +7,12 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-	features="src/test/resources/features/Array.feature",
+	//features="src/test/resources/features/",
+	features="src/test/resources/features/Stack.feature",
 	glue="step_definitions",
 	dryRun=false,
 	monochrome=true,
-	//tags = "@TestSuit_Array_13",
+	//tags = "@TestDemo_Stack_05",
 	plugin = { "pretty", "html:target/DsalgoXpathers.html" }
 )
 public class Test_runner {

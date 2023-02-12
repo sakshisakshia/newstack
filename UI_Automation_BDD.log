@@ -1,162 +1,584 @@
-2023-02-05 10:52:49,991 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 10:52:50,005 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 10:52:58,343 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 10:52:58,870 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 10:52:59,433 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 10:53:00,611 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 10:53:00,631 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 10:53:00,632 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 10:53:00,639 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
-2023-02-05 10:57:42,630 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 10:57:42,664 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 10:58:02,818 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 10:58:03,033 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 10:58:03,207 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 10:58:03,792 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 10:58:03,806 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 10:58:03,807 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 10:59:04,249 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
-2023-02-05 11:02:15,485 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:02:15,490 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:02:18,616 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:02:18,818 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:02:18,974 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:02:19,510 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:02:19,518 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:02:19,518 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:02:19,522 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
-2023-02-05 11:04:41,395 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:04:41,399 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:04:44,452 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:04:44,653 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:04:44,811 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:04:45,376 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:04:45,382 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:04:45,382 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:04:45,385 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
-2023-02-05 11:11:02,606 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:11:02,614 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:11:06,437 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:11:06,673 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:11:06,838 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:11:07,429 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:11:07,437 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:11:07,437 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:12:24,118 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:12:24,122 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:12:27,156 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:12:27,389 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:12:27,557 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:12:28,080 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:12:28,091 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:12:28,091 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:12:28,094 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :0
-2023-02-05 11:13:51,500 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:13:51,504 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:13:54,538 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:13:54,754 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:13:54,906 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:13:55,473 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:13:55,480 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:13:55,480 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:13:56,034 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:24:51,201 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:24:51,206 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:24:54,821 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:24:55,014 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:24:55,176 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:24:55,730 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:24:55,738 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:24:55,738 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:24:56,181 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:27:25,401 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:27:25,404 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:36:56,232 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:36:56,235 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:36:59,511 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:36:59,734 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:36:59,891 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:37:00,376 [INFO ] step_definitions.Array_Stepdef [main] User clicked Squares of a Sorted Array link
-2023-02-05 11:37:00,386 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:37:00,388 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:37:00,842 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:38:59,477 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:38:59,483 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:04,609 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:04,872 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays in Python
-2023-02-05 11:39:04,880 [INFO ] step_definitions.Array_Stepdef [main] User in page arrays-in-python
-2023-02-05 11:39:05,108 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:05,109 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:05,961 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:06,113 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays in Python
-2023-02-05 11:39:07,021 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
-2023-02-05 11:39:07,252 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:07,253 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:10,187 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:10,399 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays using List
-2023-02-05 11:39:10,547 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:10,548 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:11,461 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:11,635 [INFO ] step_definitions.Array_Stepdef [main] User clicked Arrays using List
-2023-02-05 11:39:12,285 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
-2023-02-05 11:39:12,569 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:12,569 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:15,520 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:15,725 [INFO ] step_definitions.Array_Stepdef [main] User clicked Basic Operations in List
-2023-02-05 11:39:15,736 [INFO ] step_definitions.Array_Stepdef [main] User in page basic-operations-in-lists
-2023-02-05 11:39:15,937 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:15,938 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:16,865 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:17,021 [INFO ] step_definitions.Array_Stepdef [main] User clicked Basic Operations in List page link
-2023-02-05 11:39:17,669 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
-2023-02-05 11:39:17,984 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:17,984 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:20,991 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:21,227 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array
-2023-02-05 11:39:21,234 [INFO ] step_definitions.Array_Stepdef [main] User in page applications-of-array
-2023-02-05 11:39:21,448 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:21,448 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:22,373 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:22,533 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:39:23,189 [INFO ] step_definitions.Array_Stepdef [main] User in tryEditor page
-2023-02-05 11:39:23,421 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:23,422 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:26,394 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:26,735 [INFO ] step_definitions.Array_Stepdef [main] User clicked Practice Questions
-2023-02-05 11:39:26,742 [INFO ] step_definitions.Array_Stepdef [main] User in page practice
-2023-02-05 11:39:26,953 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:26,953 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:27,862 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:28,014 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:39:28,209 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:39:28,513 [INFO ] step_definitions.Array_Stepdef [main] User clicked Search the array link
-2023-02-05 11:39:28,520 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:39:28,520 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:39:28,952 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:39:29,161 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:29,161 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:30,023 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:30,184 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:39:30,388 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:39:30,618 [INFO ] step_definitions.Array_Stepdef [main] User clicked Max Consecutive Ones link
-2023-02-05 11:39:30,623 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:39:30,624 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:39:30,647 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:39:30,800 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:30,801 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:31,644 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:31,788 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:39:31,961 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:39:32,161 [INFO ] step_definitions.Array_Stepdef [main] User clicked Find Numbers with Even Number of Digits link
-2023-02-05 11:39:32,169 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:39:32,169 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:39:32,189 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
-2023-02-05 11:39:32,352 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
-2023-02-05 11:39:32,352 [INFO ] step_definitions.common_step_definition [main] Launch Browser
-2023-02-05 11:39:33,209 [INFO ] step_definitions.Array_Stepdef [main] User logged in sucessfully
-2023-02-05 11:39:33,392 [INFO ] step_definitions.Array_Stepdef [main] User clicked Applications of Array page link
-2023-02-05 11:39:33,553 [INFO ] step_definitions.Array_Stepdef [main] User clicked practice question page
-2023-02-05 11:39:33,767 [INFO ] step_definitions.Array_Stepdef [main] User clicked Squares of a Sorted Array link
-2023-02-05 11:39:33,773 [INFO ] step_definitions.Array_Stepdef [main] User in question page
-2023-02-05 11:39:33,773 [INFO ] step_definitions.Array_Stepdef [main] send text to editor print('dsalgo project test')
-2023-02-05 11:39:33,793 [INFO ] step_definitions.Array_Stepdef [main] Arraylist count :2
+2023-02-10 01:16:05,104 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:16:05,147 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:16:33,911 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:16:34,650 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:16:34,655 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:16:35,735 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:16:35,736 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:16:37,366 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:16:37,716 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:16:37,717 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:16:38,797 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:16:45,856 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:16:46,939 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:16:47,897 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:16:48,216 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:16:48,228 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:16:54,916 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:16:57,157 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:16:57,159 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:01,587 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:17:01,668 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:01,669 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:02,785 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:17:02,848 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:02,852 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:12,121 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:17:12,574 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:17:14,650 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:14,654 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:19,858 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:17:20,088 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:20,099 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:21,277 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:17:21,316 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:21,317 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:29,160 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:17:31,233 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:17:31,237 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:17:33,069 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 01:29:42,150 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:29:42,166 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:08,272 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:30:08,510 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:08,513 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:09,558 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:30:09,559 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:30:11,444 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:30:11,717 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:11,719 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:12,911 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:30:19,938 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:30:21,007 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:30:27,948 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:30:29,547 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:30:29,797 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:29,800 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:34,916 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:30:38,072 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:30:40,349 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:40,356 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:45,759 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:30:45,870 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:45,880 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:46,973 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:30:47,088 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:47,089 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:30:51,856 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:30:52,416 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:30:54,480 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:30:54,485 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:31:00,679 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:31:00,801 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:31:00,803 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:31:01,919 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:31:01,985 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:31:01,987 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:31:09,211 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:31:11,308 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:31:11,309 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:31:12,833 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 01:35:52,485 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:35:52,502 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:16,419 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:36:16,658 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:16,660 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:17,707 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:36:17,708 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:36:19,644 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:36:19,958 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:19,960 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:21,035 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:36:25,719 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:36:26,744 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:36:32,934 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:36:34,626 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:36:34,935 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:34,948 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:40,859 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:36:43,853 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:36:46,036 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:46,038 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:51,009 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:36:51,101 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:51,117 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:52,385 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:36:52,458 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:52,460 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:36:56,240 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:36:56,706 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:36:58,785 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:36:58,786 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:37:02,750 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:37:02,909 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:37:02,910 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:37:03,994 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:37:04,077 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:37:04,080 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:37:10,518 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:37:12,629 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:37:12,646 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:37:14,276 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 01:38:54,173 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:38:54,205 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:17,314 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:39:17,580 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:17,583 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:18,662 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:39:18,662 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:39:20,844 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:39:21,078 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:21,079 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:22,203 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:39:27,546 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:39:28,577 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:39:38,415 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:39:39,918 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:39:40,137 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:40,139 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:45,628 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:39:48,689 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:39:50,807 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:50,817 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:55,329 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:39:55,378 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:55,387 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:39:56,539 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:39:56,653 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:39:56,658 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:40:00,370 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:40:00,778 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:40:02,877 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:40:02,878 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:40:07,864 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:40:08,118 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:40:08,119 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:40:09,209 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:40:09,260 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:40:09,264 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:40:15,905 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:40:18,054 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:40:18,055 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:40:20,302 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 01:42:51,303 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:42:51,319 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:13,735 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:43:13,987 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:13,988 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:15,047 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:43:15,048 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:43:17,503 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:43:17,897 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:17,898 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:19,171 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:43:27,170 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:43:28,208 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:43:36,726 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:43:37,429 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:43:37,689 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:37,697 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:42,501 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:43:45,376 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:43:47,557 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:47,558 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:53,140 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:43:53,397 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:53,451 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:54,518 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:43:54,769 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:43:54,771 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:43:59,785 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:44:00,358 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:44:02,458 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:44:02,459 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:44:08,350 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:44:08,470 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:44:08,475 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:44:09,759 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:44:09,839 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:44:09,890 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:44:15,758 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:44:17,886 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:44:17,887 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:44:20,058 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 01:56:58,065 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:56:58,076 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:17,319 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:57:17,479 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:17,482 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:18,531 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 01:57:18,531 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 01:57:20,658 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 01:57:20,784 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:20,786 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:21,899 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 01:57:30,904 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 01:57:31,928 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 01:57:37,232 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:57:37,652 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 01:57:37,834 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:37,836 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:46,408 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:57:48,887 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:57:50,982 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:51,019 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:55,742 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 01:57:55,816 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:55,851 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:57:56,884 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 01:57:56,927 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:57:56,928 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:58:01,550 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 01:58:01,915 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:58:03,999 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:58:04,000 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:58:07,886 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 01:58:07,982 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:58:07,984 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:58:09,024 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 01:58:09,066 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:58:09,071 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:58:16,278 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 01:58:18,359 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 01:58:18,361 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 01:58:19,820 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 02:09:56,815 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:09:56,830 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:12,872 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 02:10:13,025 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:13,029 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:14,108 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 02:10:14,109 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 02:10:15,352 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 02:10:15,459 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:15,461 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:16,485 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 02:10:19,844 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 02:10:20,870 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:10:26,986 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:10:27,568 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:10:27,779 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:27,794 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:33,056 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:10:35,789 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:10:37,943 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:37,944 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:41,854 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 02:10:41,941 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:41,946 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:43,028 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 02:10:45,352 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:10:45,437 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:10:45,785 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:10:45,819 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:45,822 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:49,558 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:10:49,847 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:10:51,917 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:51,918 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:55,243 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 02:10:55,444 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:55,448 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:10:56,560 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 02:10:58,927 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:10:59,414 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:10:59,448 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:10:59,451 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:11:04,815 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:11:06,890 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:11:06,891 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:11:08,879 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 02:18:35,689 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:18:35,699 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:18:52,230 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 02:18:52,422 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:18:52,423 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:18:53,463 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 02:18:53,464 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 02:18:54,801 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 02:18:54,928 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:18:54,929 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:18:56,080 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 02:19:00,295 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 02:19:01,336 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:19:07,492 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:19:08,081 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:19:08,327 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:08,328 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:12,569 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:19:15,149 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:19:17,327 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:17,332 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:21,270 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 02:19:21,314 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:21,325 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:22,425 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 02:19:24,782 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:19:24,901 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:19:25,249 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:19:25,299 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:25,301 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:29,029 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 02:19:29,330 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:19:31,396 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:31,438 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:34,833 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 02:19:35,016 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:35,019 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:36,104 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 02:19:38,420 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 02:19:38,871 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 02:19:38,915 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:38,917 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:44,242 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 02:19:46,330 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 02:19:46,331 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 02:19:48,140 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 09:19:07,984 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:19:08,036 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:19:29,770 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : 
+2023-02-10 09:29:21,846 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:29:21,862 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:29:45,538 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 09:29:45,813 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:29:45,817 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:29:47,173 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 09:29:47,177 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 09:29:50,143 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 09:29:50,432 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:29:50,443 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:29:51,497 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 09:29:58,313 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 09:29:59,353 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:30:08,964 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:30:10,088 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:30:10,567 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:10,568 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:18,116 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:30:21,076 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:30:23,544 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:23,545 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:30,052 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 09:30:30,146 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:30,156 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:31,358 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 09:30:34,936 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:30:35,196 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:30:35,551 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:30:35,626 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:35,628 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:40,426 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:30:40,801 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:30:42,916 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:42,918 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:48,249 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 09:30:48,526 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:48,527 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:49,585 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 09:30:52,680 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:30:53,006 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:30:53,067 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:30:53,068 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:30:59,481 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:31:01,627 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:31:01,632 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:31:03,641 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 09:37:28,766 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:37:28,807 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:03,605 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:03,619 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:21,089 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 09:54:21,271 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:21,273 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:22,318 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 09:54:22,321 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 09:54:23,696 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 09:54:23,866 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:23,868 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:24,925 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 09:54:30,050 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 09:54:31,077 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:54:36,972 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:54:37,945 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:54:38,072 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:38,073 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:46,368 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:54:46,824 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:54:48,922 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:48,943 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:53,821 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 09:54:54,022 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:54,027 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:54:55,086 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 09:54:59,099 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:54:59,214 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:54:59,748 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:54:59,893 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:54:59,907 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:55:03,387 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 09:55:03,934 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:55:06,018 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:55:06,019 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:55:11,535 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 09:55:11,659 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:55:11,661 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:55:12,831 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 09:55:15,883 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 09:55:16,495 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :
+2023-02-10 09:55:16,559 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:55:16,560 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:55:25,674 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 09:55:27,790 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 09:55:27,791 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 09:55:32,845 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 17:44:29,463 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:44:29,476 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:44:48,599 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 17:44:48,764 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:44:48,766 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:44:49,808 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 17:44:49,810 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 17:44:51,292 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 17:44:51,414 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:44:51,416 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:44:52,500 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 17:44:57,498 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 17:44:58,533 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:45:04,456 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:45:05,445 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 17:45:05,573 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:05,575 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:12,343 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:45:12,774 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:45:14,932 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 17:45:15,062 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:15,065 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:20,534 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 17:45:20,575 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:20,661 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:21,706 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 17:45:28,159 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:45:28,302 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:45:28,830 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 17:45:28,883 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:28,885 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:35,316 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:45:35,710 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:45:37,802 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 17:45:37,880 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:37,881 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:44,701 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 17:45:44,881 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:44,887 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:45:45,937 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 17:45:52,642 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:45:53,441 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :Implementation in Stack
+2023-02-10 17:45:53,491 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:45:53,493 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:46:01,479 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:46:03,584 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isSyntaxError: bad input on line 1
+2023-02-10 17:46:03,636 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:46:03,638 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:46:19,110 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 17:56:48,009 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:56:48,021 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:06,150 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 17:57:06,300 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:06,311 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:07,411 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 17:57:07,412 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 17:57:08,948 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 17:57:09,076 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:09,079 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:10,241 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 17:57:14,361 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 17:57:15,374 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:57:21,695 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:57:22,595 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 17:57:22,660 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:22,730 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:30,790 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:57:31,232 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:57:33,380 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 17:57:33,497 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:33,512 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:42,240 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 17:57:42,278 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:42,285 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:43,356 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 17:57:48,284 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:57:48,400 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:57:48,927 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 17:57:48,973 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:48,975 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:57:55,422 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:57:55,862 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:57:57,955 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 17:57:58,136 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:57:58,138 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:58:06,042 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 17:58:06,144 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:58:06,147 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:58:07,188 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 17:58:14,598 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 17:58:14,735 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:58:15,330 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 17:58:15,362 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:58:15,363 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:58:19,874 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 17:58:20,289 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 17:58:22,388 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 17:58:22,485 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 17:58:22,487 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 17:58:23,970 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page
+2023-02-10 18:02:45,419 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:02:45,434 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:01,275 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 18:03:01,411 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:01,414 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:02,448 [INFO ] step_definitions.Stack_stepdef [main] The user is in Stack page
+2023-02-10 18:03:02,448 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Stack
+2023-02-10 18:03:03,752 [INFO ] step_definitions.Stack_stepdef [main] The user should redirected to operations in stack page
+2023-02-10 18:03:03,862 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:03,864 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:04,916 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Operations in Stack
+2023-02-10 18:03:09,541 [INFO ] step_definitions.Stack_stepdef [main] The user is in the tryeditor page
+2023-02-10 18:03:10,571 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 18:03:16,888 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:03:17,753 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 18:03:17,812 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:17,865 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:23,059 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:03:23,528 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 18:03:25,701 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 18:03:25,763 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:25,770 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:30,420 [INFO ] step_definitions.Stack_stepdef [main] The user is in the Implementation page
+2023-02-10 18:03:30,577 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:30,582 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:31,661 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Implementation
+2023-02-10 18:03:34,517 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 18:03:34,641 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:03:35,244 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 18:03:35,292 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:35,296 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:42,779 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:03:43,264 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 18:03:45,365 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 18:03:45,428 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:45,431 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:50,234 [INFO ] step_definitions.Stack_stepdef [main] The user is on the applications page
+2023-02-10 18:03:50,359 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:50,361 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:03:51,397 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is : Applications
+2023-02-10 18:03:54,585 [INFO ] step_definitions.Stack_stepdef [main] Title of current page is :Assessment
+2023-02-10 18:03:54,700 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:03:55,266 [INFO ] step_definitions.Stack_stepdef [main] Actual result  :hello
+2023-02-10 18:03:55,303 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:03:55,306 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:04:02,135 [INFO ] step_definitions.Stack_stepdef [main] Arraylist count :3
+2023-02-10 18:04:02,528 [INFO ] step_definitions.Stack_stepdef [main] Invalid code when clicked on run button
+2023-02-10 18:04:04,675 [INFO ] step_definitions.Stack_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-10 18:04:04,723 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-10 18:04:04,731 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-10 18:04:06,082 [INFO ] step_definitions.Stack_stepdef [main] The user is in the practice questions page

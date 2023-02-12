@@ -16,6 +16,7 @@ import page_objects.ArrayPage;
 import page_objects.HomePage;
 import page_objects.Registerpage;
 import page_objects.SigninPage;
+import page_objects.Stackpage;
 import webdriver_manager.DriverManager;
 
 public class common_utils {
@@ -39,7 +40,18 @@ public class common_utils {
 		Constants.HOME_URL=properties.getProperty("HOME_URL");
 		Constants.EXCEL_PATH=properties.getProperty("EXCEL_PATH");
 		
+		//stackpage
+		Constants.STACKPAGE_URL = properties.getProperty("STACKPAGE_URL");
+		Constants.OPERATIONSINSTACK_URL= properties.getProperty("OPERATIONSINSTACK_URL");
+		Constants.IMPLEMENTATION_URL = properties.getProperty("IMPLEMENTATION_URL");
+		Constants.APPLICATIONS_URL = properties.getProperty("APPLICATIONS_URL");
+		Constants.PRACTICEQUESTIONS_URL = properties.getProperty("PRACTICEQUESTIONS_URL");
+		Constants.TRYEDITOR_URL = properties.getProperty("TRYEDITOR_URL");
+
 	}
+
+		
+	
 	
 	//All the page class has to be initialized in this method
 	public void initWebElements()
@@ -48,6 +60,7 @@ public class common_utils {
 		PageFactory.initElements(DriverManager.getDriver(), Registerpage.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), SigninPage.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), ArrayPage.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(), Stackpage.getInstance());
 	}
 	
 	public ArrayList<ArrayList<String>> readExcelData()
